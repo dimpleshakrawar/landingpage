@@ -16,6 +16,6 @@ module.exports = {
       "warn",
       { allowConstantExport: true },
     ],
-    "react/forbid-dom-props": ["error", { forbid: ["class"] }],
+    "react/forbid-dom-props": ["error", { forbid: [] }],
   },
 };
